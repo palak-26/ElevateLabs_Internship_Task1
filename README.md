@@ -5,8 +5,9 @@ This is a simple responsive landing page built with HTML5 and tailwindcss using 
 ## Features:
 - Responsive Header and Footer
 - Hero Section with Call to Action
-- Features page
-- Contact Page
+- Features Section
+- About Section
+- Contact Section
 - Mobile-friendly Design
 
 ## Technologies Used:
